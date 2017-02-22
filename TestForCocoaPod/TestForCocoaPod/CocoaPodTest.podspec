@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 
-  s.name             = "PodTest"
+  s.name             = "CocoaPodTest"
   s.version          = "1.0"
   s.summary          = "PodTest."
   

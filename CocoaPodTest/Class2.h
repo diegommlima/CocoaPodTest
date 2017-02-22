@@ -7,7 +7,10 @@
 //
 
 #import <Foundation/Foundation.h>
+@import UIKit;
 
 @interface Class2 : NSObject
 
+- (UIImageView *)imageViewForTest;
+- (UIImageView *)imageViewForTest2;
 @end

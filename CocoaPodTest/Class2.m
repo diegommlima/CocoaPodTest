@@ -10,4 +10,17 @@
 
 @implementation Class2
 
+- (UIImageView *)imageViewForTest {
+    
+    return [[UIImageView alloc] initWithImage:[UIImage imageNamed:@"image_animal_1"]];
+}
+
+- (UIImageView *)imageViewForTest2 {
+    
+    NSBundle *bundle = [NSBundle bundleWithURL:[[NSBundle mainBundle] URLForResource:@"Bundle1" withExtension:@"bundle"]];
+    
+    return [[UIImageView alloc] initWithImage:[UIImage imageWithContentsOfFile:[bundle pathForResource:@"image_animal_1" ofType:@"png"]]];
+    
+}
+
 @end

@@ -15,12 +15,12 @@
 		E5706B681E5DD3B600CC70C5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E5706B661E5DD3B600CC70C5 /* LaunchScreen.storyboard */; };
 		E5706B731E5DD3B600CC70C5 /* TestForCocoaPodTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E5706B721E5DD3B600CC70C5 /* TestForCocoaPodTests.m */; };
 		E5706B7E1E5DD3B600CC70C5 /* TestForCocoaPodUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = E5706B7D1E5DD3B600CC70C5 /* TestForCocoaPodUITests.m */; };
-		E5706B8F1E5DD40F00CC70C5 /* Class1.m in Sources */ = {isa = PBXBuildFile; fileRef = E5706B8E1E5DD40F00CC70C5 /* Class1.m */; };
-		E5706B921E5DD41D00CC70C5 /* Class2.m in Sources */ = {isa = PBXBuildFile; fileRef = E5706B911E5DD41D00CC70C5 /* Class2.m */; };
-		E5706B951E5DD44000CC70C5 /* Class3.m in Sources */ = {isa = PBXBuildFile; fileRef = E5706B941E5DD44000CC70C5 /* Class3.m */; };
-		E5706B981E5DD47800CC70C5 /* Assets1.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E5706B971E5DD47800CC70C5 /* Assets1.xcassets */; };
-		E5706B9A1E5DD48B00CC70C5 /* Bundle1.bundle in Resources */ = {isa = PBXBuildFile; fileRef = E5706B991E5DD48B00CC70C5 /* Bundle1.bundle */; };
-		E5706B9C1E5DD78400CC70C5 /* image_animal_1.png in Resources */ = {isa = PBXBuildFile; fileRef = E5706B9B1E5DD78400CC70C5 /* image_animal_1.png */; };
+		E5706BE81E5DE16300CC70C5 /* Class1.m in Sources */ = {isa = PBXBuildFile; fileRef = E5706BDE1E5DE16300CC70C5 /* Class1.m */; };
+		E5706BE91E5DE16300CC70C5 /* Class2.m in Sources */ = {isa = PBXBuildFile; fileRef = E5706BE01E5DE16300CC70C5 /* Class2.m */; };
+		E5706BEA1E5DE16300CC70C5 /* Class3.m in Sources */ = {isa = PBXBuildFile; fileRef = E5706BE31E5DE16300CC70C5 /* Class3.m */; };
+		E5706BEB1E5DE16300CC70C5 /* Assets1.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E5706BE51E5DE16300CC70C5 /* Assets1.xcassets */; };
+		E5706BEC1E5DE16300CC70C5 /* Bundle1.bundle in Resources */ = {isa = PBXBuildFile; fileRef = E5706BE61E5DE16300CC70C5 /* Bundle1.bundle */; };
+		E5706BED1E5DE16300CC70C5 /* image_animal_1.png in Resources */ = {isa = PBXBuildFile; fileRef = E5706BE71E5DE16300CC70C5 /* image_animal_1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,15 +57,15 @@
 		E5706B791E5DD3B600CC70C5 /* TestForCocoaPodUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestForCocoaPodUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E5706B7D1E5DD3B600CC70C5 /* TestForCocoaPodUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestForCocoaPodUITests.m; sourceTree = "<group>"; };
 		E5706B7F1E5DD3B600CC70C5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E5706B8D1E5DD40F00CC70C5 /* Class1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Class1.h; sourceTree = "<group>"; };
-		E5706B8E1E5DD40F00CC70C5 /* Class1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Class1.m; sourceTree = "<group>"; };
-		E5706B901E5DD41D00CC70C5 /* Class2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Class2.h; sourceTree = "<group>"; };
-		E5706B911E5DD41D00CC70C5 /* Class2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Class2.m; sourceTree = "<group>"; };
-		E5706B931E5DD44000CC70C5 /* Class3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Class3.h; sourceTree = "<group>"; };
-		E5706B941E5DD44000CC70C5 /* Class3.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Class3.m; sourceTree = "<group>"; };
-		E5706B971E5DD47800CC70C5 /* Assets1.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets1.xcassets; sourceTree = "<group>"; };
-		E5706B991E5DD48B00CC70C5 /* Bundle1.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = Bundle1.bundle; sourceTree = "<group>"; };
-		E5706B9B1E5DD78400CC70C5 /* image_animal_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image_animal_1.png; sourceTree = "<group>"; };
+		E5706BDD1E5DE16300CC70C5 /* Class1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Class1.h; sourceTree = "<group>"; };
+		E5706BDE1E5DE16300CC70C5 /* Class1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Class1.m; sourceTree = "<group>"; };
+		E5706BDF1E5DE16300CC70C5 /* Class2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Class2.h; sourceTree = "<group>"; };
+		E5706BE01E5DE16300CC70C5 /* Class2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Class2.m; sourceTree = "<group>"; };
+		E5706BE21E5DE16300CC70C5 /* Class3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Class3.h; sourceTree = "<group>"; };
+		E5706BE31E5DE16300CC70C5 /* Class3.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Class3.m; sourceTree = "<group>"; };
+		E5706BE51E5DE16300CC70C5 /* Assets1.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets1.xcassets; sourceTree = "<group>"; };
+		E5706BE61E5DE16300CC70C5 /* Bundle1.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = Bundle1.bundle; sourceTree = "<group>"; };
+		E5706BE71E5DE16300CC70C5 /* image_animal_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image_animal_1.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +96,7 @@
 		E5706B4C1E5DD3B600CC70C5 = {
 			isa = PBXGroup;
 			children = (
+				E5706BDC1E5DE16300CC70C5 /* CocoaPodTest */,
 				E5706B571E5DD3B600CC70C5 /* TestForCocoaPod */,
 				E5706B711E5DD3B600CC70C5 /* TestForCocoaPodTests */,
 				E5706B7C1E5DD3B600CC70C5 /* TestForCocoaPodUITests */,
@@ -116,7 +117,6 @@
 		E5706B571E5DD3B600CC70C5 /* TestForCocoaPod */ = {
 			isa = PBXGroup;
 			children = (
-				E5706B8B1E5DD3EA00CC70C5 /* PodName */,
 				E5706B5B1E5DD3B600CC70C5 /* AppDelegate.h */,
 				E5706B5C1E5DD3B600CC70C5 /* AppDelegate.m */,
 				E5706B5E1E5DD3B600CC70C5 /* ViewController.h */,
@@ -156,34 +156,34 @@
 			path = TestForCocoaPodUITests;
 			sourceTree = "<group>";
 		};
-		E5706B8B1E5DD3EA00CC70C5 /* PodName */ = {
+		E5706BDC1E5DE16300CC70C5 /* CocoaPodTest */ = {
 			isa = PBXGroup;
 			children = (
-				E5706B961E5DD45E00CC70C5 /* PodResources */,
-				E5706B8C1E5DD3EA00CC70C5 /* PodFolder */,
-				E5706B8D1E5DD40F00CC70C5 /* Class1.h */,
-				E5706B8E1E5DD40F00CC70C5 /* Class1.m */,
-				E5706B901E5DD41D00CC70C5 /* Class2.h */,
-				E5706B911E5DD41D00CC70C5 /* Class2.m */,
+				E5706BDD1E5DE16300CC70C5 /* Class1.h */,
+				E5706BDE1E5DE16300CC70C5 /* Class1.m */,
+				E5706BDF1E5DE16300CC70C5 /* Class2.h */,
+				E5706BE01E5DE16300CC70C5 /* Class2.m */,
+				E5706BE11E5DE16300CC70C5 /* PodFolder */,
+				E5706BE41E5DE16300CC70C5 /* PodResources */,
 			);
-			path = PodName;
+			path = CocoaPodTest;
 			sourceTree = "<group>";
 		};
-		E5706B8C1E5DD3EA00CC70C5 /* PodFolder */ = {
+		E5706BE11E5DE16300CC70C5 /* PodFolder */ = {
 			isa = PBXGroup;
 			children = (
-				E5706B931E5DD44000CC70C5 /* Class3.h */,
-				E5706B941E5DD44000CC70C5 /* Class3.m */,
+				E5706BE21E5DE16300CC70C5 /* Class3.h */,
+				E5706BE31E5DE16300CC70C5 /* Class3.m */,
 			);
 			path = PodFolder;
 			sourceTree = "<group>";
 		};
-		E5706B961E5DD45E00CC70C5 /* PodResources */ = {
+		E5706BE41E5DE16300CC70C5 /* PodResources */ = {
 			isa = PBXGroup;
 			children = (
-				E5706B9B1E5DD78400CC70C5 /* image_animal_1.png */,
-				E5706B971E5DD47800CC70C5 /* Assets1.xcassets */,
-				E5706B991E5DD48B00CC70C5 /* Bundle1.bundle */,
+				E5706BE51E5DE16300CC70C5 /* Assets1.xcassets */,
+				E5706BE61E5DE16300CC70C5 /* Bundle1.bundle */,
+				E5706BE71E5DE16300CC70C5 /* image_animal_1.png */,
 			);
 			path = PodResources;
 			sourceTree = "<group>";
@@ -291,9 +291,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E5706B981E5DD47800CC70C5 /* Assets1.xcassets in Resources */,
-				E5706B9C1E5DD78400CC70C5 /* image_animal_1.png in Resources */,
-				E5706B9A1E5DD48B00CC70C5 /* Bundle1.bundle in Resources */,
+				E5706BEB1E5DE16300CC70C5 /* Assets1.xcassets in Resources */,
+				E5706BED1E5DE16300CC70C5 /* image_animal_1.png in Resources */,
+				E5706BEC1E5DE16300CC70C5 /* Bundle1.bundle in Resources */,
 				E5706B681E5DD3B600CC70C5 /* LaunchScreen.storyboard in Resources */,
 				E5706B651E5DD3B600CC70C5 /* Assets.xcassets in Resources */,
 				E5706B631E5DD3B600CC70C5 /* Main.storyboard in Resources */,
@@ -321,11 +321,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E5706B951E5DD44000CC70C5 /* Class3.m in Sources */,
+				E5706BEA1E5DE16300CC70C5 /* Class3.m in Sources */,
 				E5706B601E5DD3B600CC70C5 /* ViewController.m in Sources */,
-				E5706B921E5DD41D00CC70C5 /* Class2.m in Sources */,
+				E5706BE91E5DE16300CC70C5 /* Class2.m in Sources */,
 				E5706B5D1E5DD3B600CC70C5 /* AppDelegate.m in Sources */,
-				E5706B8F1E5DD40F00CC70C5 /* Class1.m in Sources */,
+				E5706BE81E5DE16300CC70C5 /* Class1.m in Sources */,
 				E5706B5A1E5DD3B600CC70C5 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -552,6 +552,7 @@
 				E5706B841E5DD3B600CC70C5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E5706B851E5DD3B600CC70C5 /* Build configuration list for PBXNativeTarget "TestForCocoaPodTests" */ = {
 			isa = XCConfigurationList;
@@ -560,6 +561,7 @@
 				E5706B871E5DD3B600CC70C5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E5706B881E5DD3B600CC70C5 /* Build configuration list for PBXNativeTarget "TestForCocoaPodUITests" */ = {
 			isa = XCConfigurationList;
@@ -568,6 +570,7 @@
 				E5706B8A1E5DD3B600CC70C5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

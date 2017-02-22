@@ -13,6 +13,11 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '7.0'
   s.requires_arc = true
   s.framework    = 'UIKit'
-  s.source_files = 'CocoaPodTest/**','CocoaPodTest/PodFolder/**'
+  s.source_files = 'CocoaPodTest/**'
   s.ios.resource_bundle = { 'Bundle1' => 'CocoaPodTest/PodResources/**' }
+
+  s.subspec 'PodFolder' do |ss|
+    ss.source_files = 'CocoaPodTest/PodFolder/**'
+  end
+
 end
